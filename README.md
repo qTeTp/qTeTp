@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SunMoonChul&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SeungHo&fontSize=90)
 
 # 안녕하세요, 개발자 김승호입니다 👋
 
