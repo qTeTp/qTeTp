@@ -77,7 +77,7 @@
 
 ## 📂 기타 프로젝트
 
-* **⚽ [스포츠 용품 중고거래 플랫폼](https://github.com/qTeTp/MuscleMarket)**]
+* **⚽ [스포츠 용품 중고거래 플랫폼](https://github.com/qTeTp/MuscleMarket)**
   * 프로젝트명: MuscleMarket
   * 기간: 2025.11 ~ 2025.12 (완료)
   * 내용: 운동 용품 특화 중고장터 & 커뮤니티 웹 프로젝트
