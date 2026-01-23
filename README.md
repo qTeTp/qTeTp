@@ -46,31 +46,38 @@
 
 ## 🏆 Major Projects
 
-### 1. 🤝 협차니 (Hyupchani)
-> **인플루언서와 광고주를 잇는 마케팅 매칭 플랫폼**
-> * 광고주와 인플루언서 간의 실시간 채팅, 간이 제안서 발송, 찜하기 기능 등을 제공합니다.
-> * **Backend:** Spring Boot, JPA, MySQL, WebSocket
-> * **Frontend:** React, SCSS
-* **GitHub:** [Backend Link](https://github.com/SunMoonChul/hcn_spring) | [Frontend Link](https://github.com/qTeTp/hcn_web_react)
-* **My Role:** 백엔드 API 설계 및 구현, DB 모델링, 웹소켓 채팅 서버 구축
+### 🎯 우상향
+> **AI 기반 주식 포트폴리오 리밸런싱 추천 애플리케이션**
 
-### 2. 📺 선문철TV (AI Blackbox)
-> **AI 기반 블랙박스 영상 분석 프로젝트**
-> * 블랙박스 영상을 분석하여 사고 과실 비율을 예측하거나 중요 장면을 식별합니다.
-> * **Period:** 2023.10 ~ 2023.12
-* **My Role:** 영상 데이터 전처리, AI 모델 연동 및 결과 분석 API 구현
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-완료-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Team-우상향(5명)-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Role-팀원%20%26%20백엔드-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Type-기업연계%20프로젝트-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏆%20우수상%20수상-gold?style=for-the-badge"/>
+</div>
 
+**🔧 사용 기술:**
+- **Frontend**: React Native, Expo, JavaScript, Data Visualization
+- **Backend**: Spring Boot, Java, RESTful API Design  
+- **AI/ML**: GNN(Graph Neural Network), DRL(Deep Reinforcement Learning), LPPLS Model
+- **External APIs**: Mojito2 API (주식 정보)
+- **Database**: MySQL, PostgreSQL
+
+**✨ 주요 기능:**
+- 🤖 AI 기반 자동화된 포트폴리오 리밸런싱 추천
+- 📊 실시간 주식 정보 모니터링 및 데이터 시각화
+
+**🏆 성과:**
+- 🎖️ **Iot빅데이터응용교육과정 성과물 경진대회 우수상 수상**
+- 포트폴리오 최적화 정확도 **85%** 달성
+  
 <br>
 
 ## 📂 Other Projects
 
-* **📈 주식 리밸런싱 포트폴리오 (Stock Rebalancing Web)**
-    * 기간: 2024.10 ~ 2024.12
-    * 내용: 사용자의 자산을 설정된 비율에 맞춰 자동으로 리밸런싱 수량을 계산해주는 웹 서비스
-    * Stack: Spring Boot, React
-
 * **⚽ 스포츠 용품 중고거래 플랫폼**
-    * 기간: 2025.10 ~ (진행 중)
+    * 기간: 2025.11 ~ 2024.12 (완료)
     * 내용: 스포츠 용품에 특화된 카테고리 필터링과 안전 거래를 지원하는 플랫폼 개발
 
 <br>
