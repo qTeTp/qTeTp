@@ -119,3 +119,9 @@
 - **정보처리기사** (2025.09)
 - **리눅스 마스터 2급** (2024.12)
 - **JAVA PROGRAMING MASTER** (2023.08)
+
+### 🌟 Thanks for visiting my profile! 🌟
+
+<img src="https://komarev.com/ghpvc/?username=sehyun00&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
