@@ -12,7 +12,7 @@
 * 🔭 현재 **포트폴리오 리밸런싱 애플리케이션** 개발 중
 * 🌱 **Spring Boot, Vibe Coding** 학습 중
 * 💬 **Spring Boot, 생성형 AI** 에 대해 함께 공부하는 걸 좋아해요
-* 📫 연락처: **k355323@gmail.com**
+* 📫 E-mail: **k355323@gmail.com**
 
 <br>
 
@@ -44,7 +44,7 @@
 </div>
 <br>
 
-## 🏆 Major Projects
+## 🏆 주요 프로젝트
 
 ### 🎯 우상향
 > **AI 기반 주식 포트폴리오 리밸런싱 추천 애플리케이션**
@@ -66,6 +66,7 @@
 
 **✨ 주요 기능:**
 - 🤖 AI 기반 자동화된 포트폴리오 리밸런싱 추천
+- OCR로 사용자의 주식정보 
 - 📊 실시간 주식 정보 모니터링 및 데이터 시각화
 
 **🏆 성과:**
@@ -74,7 +75,7 @@
   
 <br>
 
-## 📂 Other Projects
+## 📂 기타 프로젝트
 
 * **⚽ 스포츠 용품 중고거래 플랫폼**
     * 기간: 2025.11 ~ 2024.12 (완료)
@@ -82,7 +83,7 @@
 
 <br>
 
-## 🔮 Future Plans
+## 🌟 향후 계획
 
 * **백엔드 심화 학습:** 대용량 트래픽 처리를 위한 아키텍처 설계 및 최적화 기법 연구
 * **오픈소스 기여:** 자주 사용하는 라이브러리나 프레임워크에 기여 활동 시작
@@ -90,15 +91,15 @@
 
 <br>
 
-## 📈 GitHub Stats
+## 🎯 목표 및 학습 계획
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SunMoonChul&show_icons=true&theme=dark" alt="SunMoonChul's Github Stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunMoonChul&layout=compact&theme=dark" alt="Top Langs"/>
-</div>
+### 📚 2026년 계획
+- [ ] **Spring Boot** 심화 학습
+- [ ] **AI/ML** 프로젝트 경험 확대
+- [ ] **클라우드 서비스** 심화 학습
+- [ ] **Stock-Keeper** 프로젝트 서비스
 
-<br>
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=SunMoonChul" alt="Baekjoon Tier" />
-</div>
+### 🏅 자격증 현황
+**정보처리기사** (2025.09)
+**리눅스 마스터 2급** (2024.12)
+**JAVA PROGRAMING MASTER** (2023.08)
