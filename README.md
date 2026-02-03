@@ -5,9 +5,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k355323)](https://solved.ac/k355323/)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot;Interested+in+AI;Invest+Strategy)](https://git.io/typing-svg)
-
 ## 🚀 About Me
 
 > **백엔드 개발자**로서 백엔드 개발에 많은 기여를 했습니다 <br>
