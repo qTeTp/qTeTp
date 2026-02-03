@@ -2,6 +2,10 @@
 
 # 안녕하세요, 백엔드 개발자 김승호입니다 👋
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k355323)](https://solved.ac/k355323/)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%26+Spring+Boot;Interested+in+AI;Invest+Strategy)](https://git.io/typing-svg)
 
 ## 🚀 About Me
