@@ -10,7 +10,7 @@
 > 백엔드 개발에 많은 기여를 했습니다 <br>
 > **Spring Boot** 기술을 활용한 실무 프로젝트 경험이 풍부합니다
 
-* 🔭 현재 [포트폴리오 리밸런싱 애플리케이션](https://github.com/qTeTp/SMS) 개발 중
+* 🔭 현재 [포트폴리오 리밸런싱 애플리케이션](https://github.com/qTeTp/PRD) 개발 중
 * 🌱 **Spring Boot, Vibe Coding** 학습 중
 * 💬 **Spring Boot, 생성형 AI** 에 대해 함께 공부하는 걸 좋아해요
 * 📫 E-mail: **k355323@gmail.com**
